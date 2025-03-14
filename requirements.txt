@@ -1,0 +1,9 @@
+fastapi
+pandas
+streamlit
+ultralytics
+Pillow
+numpy
+opencv-python
+torch
+plotly
